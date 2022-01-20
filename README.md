@@ -12,3 +12,7 @@ https://leetcode.com/study-plan/dynamic-programming/<br>
 ### GeeksforGeeks
 <b>Problem of the day</b><br>
 https://practice.geeksforgeeks.org/problem-of-the-day<br>
+
+### Coding Ninjas striver sheet
+<b>All levels</b><br>
+https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
