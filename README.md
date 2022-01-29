@@ -20,3 +20,7 @@ https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems
 ### Hackerrank
 <b>Preparation kit</b><br>
 https://www.hackerrank.com/interview/preparation-kits<br>
+
+### Interviewbit
+<b>Amazon questions</b><br>
+https://www.interviewbit.com/amazon-interview-questions/<br>
