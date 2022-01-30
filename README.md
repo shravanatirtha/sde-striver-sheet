@@ -24,3 +24,5 @@ https://www.hackerrank.com/interview/preparation-kits<br>
 ### Interviewbit
 <b>Amazon questions</b><br>
 https://www.interviewbit.com/amazon-interview-questions/<br>
+<b>System Design</b><br>
+https://www.interviewbit.com/courses/system-design/</br>
