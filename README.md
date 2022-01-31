@@ -8,6 +8,8 @@ https://leetcode.com/study-plan/algorithm<br>
 https://leetcode.com/study-plan/data-structure<br>
 <b>Dynamic Programming</b><br>
 https://leetcode.com/study-plan/dynamic-programming/<br>
+<b>Daily practice</b><br>
+https://leetcode.com/problemset/all/<br>
 
 ### GeeksforGeeks
 <b>Problem of the day</b><br>
