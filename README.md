@@ -1,6 +1,7 @@
 # striver-sheet
 A collection of problems from Strivers-SDE-sheet using which people have cracked their dream jobs. These questions are commonly asked in product-based companies like Amazon, Microsoft, Google, etc<br>
 <b>Preferred language: Java</b>
+
 ### Leetcode Study Plan
 <b>Algorithm</b><br>
 https://leetcode.com/study-plan/algorithm<br>
@@ -28,3 +29,6 @@ https://www.hackerrank.com/interview/preparation-kits<br>
 https://www.interviewbit.com/amazon-interview-questions/<br>
 <b>System Design</b><br>
 https://www.interviewbit.com/courses/system-design/</br>
+
+### Striver sheet - I
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/<br>
