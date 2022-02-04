@@ -19,6 +19,8 @@ https://practice.geeksforgeeks.org/problem-of-the-day<br>
 ### Hackerearth
 <b>Data Structures</b><br>
 https://www.hackerearth.com/practice/data-structures/<br>
+<b>Algorithms</b><br>
+https://www.hackerearth.com/practice/algorithms/<br>
 
 ### Coding Ninjas striver sheet
 <b>All levels</b><br>
