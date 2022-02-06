@@ -19,6 +19,8 @@ https://practice.geeksforgeeks.org/problem-of-the-day<br>
 ### Hackerearth
 <b>Basic Programming</b><br>
 https://www.hackerearth.com/practice/basic-programming/<br>
+<b>Code Monk</b><br>
+https://www.hackerearth.com/practice/codemonk/<br>
 <b>Data Structures</b><br>
 https://www.hackerearth.com/practice/data-structures/<br>
 <b>Algorithms</b><br>
