@@ -2,7 +2,7 @@
 A collection of problems from Strivers-SDE-sheet using which people have cracked their dream jobs. These questions are commonly asked in product-based companies like Amazon, Microsoft, Google, etc<br><br>
 <b>Preferred language: Java</b>
 
-### Leetcode Study Plan
+### 💻 Leetcode Study Plan
 <b>Algorithm</b><br>
 https://leetcode.com/study-plan/algorithm<br>
 <b>Data Structure</b><br>
@@ -12,11 +12,11 @@ https://leetcode.com/study-plan/dynamic-programming/<br>
 <b>Daily practice</b><br>
 https://leetcode.com/problemset/all/<br>
 
-### GeeksforGeeks
+### 💻 GeeksforGeeks
 <b>Problem of the day</b><br>
 https://practice.geeksforgeeks.org/problem-of-the-day<br>
 
-### Hackerearth
+### 💻 Hackerearth
 <b>Basic Programming</b><br>
 https://www.hackerearth.com/practice/basic-programming/<br>
 <b>Code Monk</b><br>
@@ -26,21 +26,21 @@ https://www.hackerearth.com/practice/data-structures/<br>
 <b>Algorithms</b><br>
 https://www.hackerearth.com/practice/algorithms/<br>
 
-### Coding Ninjas striver sheet
+### 💻 Coding Ninjas striver sheet
 <b>All levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
 
-### Hackerrank
+### 💻 Hackerrank
 <b>Preparation kit</b><br>
 https://www.hackerrank.com/interview/preparation-kits<br>
 <b>SQL</b><br>
 https://www.hackerrank.com/domains/sql<br>
 
-### Interviewbit
+### 💻 Interviewbit
 <b>Amazon questions</b><br>
 https://www.interviewbit.com/amazon-interview-questions/<br>
 <b>System Design</b><br>
 https://www.interviewbit.com/courses/system-design/</br>
 
-### Striver sheet - I
+### 💻 Striver sheet - I
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/<br>
