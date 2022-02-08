@@ -25,6 +25,8 @@ https://www.hackerearth.com/practice/codemonk/<br>
 https://www.hackerearth.com/practice/data-structures/<br>
 <b>Algorithms</b><br>
 https://www.hackerearth.com/practice/algorithms/<br>
+<b>Interview prep</b><br>
+https://www.hackerearth.com/practice/interviews/<br>
 
 ### 💻 Coding Ninjas striver sheet
 <b>All levels</b><br>
