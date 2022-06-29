@@ -46,3 +46,6 @@ https://www.interviewbit.com/courses/system-design/</br>
 
 ### 💻 Striver sheet - I
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/<br>
+
+#### Author
+##### Shravana Tirtha
