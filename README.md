@@ -32,9 +32,8 @@ https://www.hackerearth.com/practice/interviews/<br>
 <b> Basics of Java </b><br>
 https://www.codingninjas.com/codestudio/guided-paths/basics-of-java <br>
 <b> OOPs in Java </b> <br>
-https://www.codingninjas.com/codestudio/guided-paths/oops-in-java
-#### striver sheet
-<b>All levels</b><br>
+https://www.codingninjas.com/codestudio/guided-paths/oops-in-java <br>
+<b>Striver sheet all levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
 
 ### 💻 Hackerrank
