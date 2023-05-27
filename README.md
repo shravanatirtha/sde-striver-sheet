@@ -28,7 +28,10 @@ https://www.hackerearth.com/practice/algorithms/<br>
 <b>Interview prep</b><br>
 https://www.hackerearth.com/practice/interviews/<br>
 
-### 💻 Coding Ninjas striver sheet
+### 💻 Coding Ninjas 
+<b> Basics of Java </b>
+https://www.codingninjas.com/codestudio/guided-paths/basics-of-java
+#### striver sheet
 <b>All levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
 
