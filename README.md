@@ -29,8 +29,10 @@ https://www.hackerearth.com/practice/algorithms/<br>
 https://www.hackerearth.com/practice/interviews/<br>
 
 ### 💻 Coding Ninjas 
-<b> Basics of Java </b>
+<b> Basics of Java </b><br>
 https://www.codingninjas.com/codestudio/guided-paths/basics-of-java
+<b> OOPs in Java </b> <br>
+https://www.codingninjas.com/codestudio/guided-paths/oops-in-java
 #### striver sheet
 <b>All levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
