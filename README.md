@@ -1,4 +1,4 @@
-# striver-sheet
+# Striver Sheet
 A collection of problems from Strivers-SDE-sheet using which people have cracked their dream jobs. These questions are commonly asked in product-based companies like Amazon, Microsoft, Google, etc<br><br>
 <b>Solved using: Java</b>
 
