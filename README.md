@@ -33,6 +33,8 @@ https://www.hackerearth.com/practice/interviews/<br>
 https://www.codingninjas.com/codestudio/guided-paths/basics-of-java <br>
 <b> OOPs in Java </b> <br>
 https://www.codingninjas.com/codestudio/guided-paths/oops-in-java <br>
+<b> DSA </b> <br>
+https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms<br>
 <b>Striver sheet all levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
 
