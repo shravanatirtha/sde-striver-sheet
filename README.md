@@ -37,6 +37,8 @@ https://www.codingninjas.com/codestudio/guided-paths/oops-in-java <br>
 https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms<br>
 <b>Striver sheet all levels</b><br>
 https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems<br>
+<b> Competitive programming </b> <br>
+https://www.codingninjas.com/codestudio/guided-paths/competitive-programming <br>
 
 ### 💻 Hackerrank
 <b>Preparation kit</b><br>
