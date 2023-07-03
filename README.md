@@ -1,6 +1,7 @@
 
 # Striver Sheet
-A collection of problems from Strivers-SDE-sheet using which people have cracked their dream jobs. These questions are commonly asked in product-based companies like Amazon, Microsoft, Google, etc<br><br>
+A collection of problems from Strivers-SDE-sheet using which people have cracked their dream jobs. These questions are commonly asked in product-based companies like Amazon, Microsoft, Google, etc<br><be>
+
 <b>Solve using: Java</b>
 
 ### 💻 Leetcode Study Plan
